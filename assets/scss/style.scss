@@ -1,0 +1,13 @@
+@import 'variables';
+@import 'partials/header';
+@import 'partials/banner';
+@import 'partials/aboutUs';
+@import 'partials/services';
+@import 'partials/clients';
+@import 'partials/pricing';
+@import 'partials/team';
+@import 'partials/blogPost';
+@import 'partials/footer';
+body {
+	font-family: 'Karla', sans-serif;
+}
